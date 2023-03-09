@@ -1,4 +1,5 @@
 # forbidden_forest_hogwarts
- The forbidden forest of Hogwarts is a very scary place. Using smooth scrolling, parallax.
+Запретный лес Хогвартса - очень страшное место.  
+Эффект Параллакса. Планый скролл. Использовалась библиотека GSAP.
  
-[Open project](https://mkotolevsky.github.io/forbidden_forest_hogwarts/)
+[Открыть](https://mkotolevsky.github.io/forbidden_forest_hogwarts/)
